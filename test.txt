@@ -13,6 +13,13 @@
 
 refresh github web page
 
+=>delete a file from system and update on web page
+
+-right click which file you want to delete and select delete -> click move to recycle bin
+
+*git status -> check status for newly created/deleted file/folder
+
+
 =>pulling file from web page to local system
 
 -inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
