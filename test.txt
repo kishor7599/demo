@@ -1,14 +1,19 @@
-git hub file uploading steps
+=>git hub file uploading steps
 
-git clone "code ling(origin)" -> folder download from github
-cd foldername -> change directory to folder
+*git clone "code ling(origin)" -> folder download from github
+*cd foldername -> change directory to folder
 
-after done all the creations and edtitings
+-after done all the creations and edtitings
 
-git status -> check status for newly created file/folder
-git add file name -> adding file/folder
+*git status -> check status for newly created file/folder
+*git add file name -> adding file/folder
 
-git commit -m "*have to give this compalsory*"
-git push origin main -> uploading files/folder to git (for the first time it wants to (one time)sign-in)
+*git commit -m "*have to give this compalsory*"
+*git push origin main -> uploading files/folder to git (for the first time it wants to (one time)sign-in)
 
 refresh github web page
+
+=>pulling file from web page to local system
+
+-inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
+
