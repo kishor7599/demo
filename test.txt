@@ -17,3 +17,4 @@ refresh github web page
 
 -inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
 
+git pull -> this command will update all the details as web page
