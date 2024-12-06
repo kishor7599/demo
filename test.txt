@@ -39,5 +39,5 @@ refresh github web page
 *cd foldername -> change directory to folder
 
 ---creaing empty github folder in system
-*git init
+*git init -> change normal folder to git folder
 ---check that folder for(.git folder(hidden file))
