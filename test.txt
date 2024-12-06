@@ -1,27 +1,32 @@
-=>git hub file uploading steps
+===>git hub file uploading steps
 
 *git clone "code ling(origin)" -> folder download from github
 *cd foldername -> change directory to folder
 
--after done all the creations and edtitings
+---after done all the creations and edtitings
 
 *git status -> check status for newly created file/folder
-*git add file name -> adding file/folder
+*git add file name -> adding or updating file to staging area
 
 *git commit -m "*have to give this compalsory*"
 *git push origin main -> uploading files/folder to git (for the first time it wants to (one time)sign-in)
 
 refresh github web page
 
-=>delete a file from system and update on web page
+===>delete a file from system and update on web page
 
--right click which file you want to delete and select delete -> click move to recycle bin
+---right click which file you want to delete and select delete -> click move to recycle bin
 
 *git status -> check status for newly created/deleted file/folder
 
+*git add deleted file name -> adding or updating file to staging area
+*git commit -m "*have to give this compalsory*"
 
-=>pulling file from web page to local system
+*git push origin main -> uploading files/folder to git
 
--inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
+
+===>pulling file from web page to local system
+
+---inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
 
 *git pull -> this command will update all the details as web page
