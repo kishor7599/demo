@@ -2,7 +2,6 @@
 
 *git clone "code ling(origin)" -> folder download from github
 *cd foldername -> change directory to folder
-*cd .. -> change directory to main folder
 
 ---after done all the creations and edtitings
 
@@ -31,3 +30,14 @@ refresh github web page
 ---inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
 
 *git pull -> this command will update all the details as web page
+
+
+===>create a folder from system and upload to github web page
+
+---first we need to go to the main folder
+*cd .. -> change directory to main folder
+*cd foldername -> change directory to folder
+
+---creaing empty github folder in system
+*git init
+---check that folder for(.git folder(hidden file))
