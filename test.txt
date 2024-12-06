@@ -2,6 +2,7 @@
 
 *git clone "code ling(origin)" -> folder download from github
 *cd foldername -> change directory to folder
+*cd .. -> change directory to main folder
 
 ---after done all the creations and edtitings
 
