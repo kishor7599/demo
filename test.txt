@@ -56,3 +56,7 @@ ________________________________________________________________________________
 *git push origin main -> uploading files/folder to git
 
 _______________________________________________________________________________________________________________
+
+===>creating nre branch
+
+*git branch -a ->showing all available branches in current repository
