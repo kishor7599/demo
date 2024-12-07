@@ -13,6 +13,7 @@
 
 refresh github web page
 
+_______________________________________________________________________________________________________________
 ===>delete a file from system and update on web page
 
 ---right click which file you want to delete and select delete -> click move to recycle bin
@@ -24,14 +25,14 @@ refresh github web page
 
 *git push origin main -> uploading files/folder to git
 
-
+_______________________________________________________________________________________________________________
 ===>pulling file from web page to local system
 
 ---inthe web page -> click the (+) nearby go to file -> after clicking select create new file -> edit the file name and contents -> click commit changes -> give commit message compalsory(what ever you want) and click commit changes
 
 *git pull -> this command will update all the details as web page
 
-
+_______________________________________________________________________________________________________________
 ===>create a folder from system and upload to github web page
 
 ---first we need to go to the main folder
@@ -53,3 +54,5 @@ refresh github web page
 *git branch -m main ->its used to rename the branch (master to main)
 
 *git push origin main -> uploading files/folder to git
+
+_______________________________________________________________________________________________________________
