@@ -53,4 +53,3 @@ refresh github web page
 *git branch -m main ->its used to rename the branch (master to main)
 
 *git push origin main -> uploading files/folder to git
-
