@@ -43,4 +43,14 @@ refresh github web page
 ---check that folder for(.git folder(hidden file))
 
 *git add . -> select and move all modified file to staging area
+---check status
+---commit both files with single commit message using *commit code
+
+---in web page create a new repository and give the name as same as we createdfolder in our local system
+*git remote add orgin copy the link in webpage and past it -> to uploading filesin local system to webpage
+
+*git branch -> it shows master (the new branch name for newly created folder)
+*git branch -m main ->its used to rename the branch (master to main)
+
+*git push origin main -> uploading files/folder to git
 
