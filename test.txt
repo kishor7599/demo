@@ -57,6 +57,19 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________
 
-===>creating nre branch
+===>creating new branch
 
 *git branch -a ->showing all available branches in current repository
+
+--->in webpage click the drop down arrownearby main -> after clicking give a new branch name and click the (create "new branch name" from main branch name)
+*git branch -a ->check available branches in current repository
+*git pull -> this command will update all the details as web page
+*git branch -a ->check available branches in current repository
+
+
+*git checkout created branch name -> switche to the created branch
+*git branch -a ->to check currently we are in which branch
+
+_______________________________________________________________________________________________________________
+
+===>adding new file in newly created branch
